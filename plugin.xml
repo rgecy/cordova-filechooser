@@ -2,7 +2,7 @@
 <plugin 
     xmlns="http://www.phonegap.com/ns/plugins/1.0" 
     xmlns:android="http://schemas.android.com/apk/res/android" 
-    id="rgecy.com/wazeThemes.FileChooser" 
+    id="rgecy.com.wazeThemes.FileChooser" 
     version="0.9.0">
      <description>File Chooser for Cordova </description>
    
